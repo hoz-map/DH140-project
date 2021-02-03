@@ -4,7 +4,9 @@
 Since I am a free agent, I am playing the following roles by myself:
 
 >Primary writer: write a narrative
+
 >Data visualization specialist: visualize data with graphs and maps
+
 >Web specialist: develop a story map 
 
 **Status update**: 
