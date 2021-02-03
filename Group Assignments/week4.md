@@ -20,7 +20,7 @@ The only issue is I was not able to get much geographical information of Indones
 **Data update**: 
 
 Provide a short narrative on where you are with the data sources you will incorporate in your project. Provide links as necessary. 
-For now, I have been using data from the [Centre for Research on the Epidemiology of Disasters] (https://www.emdat.be/) to visualize disaster trends in the world and in the top five disaster-prone countries. 
+For now, I have been using data from the Centre for Research on the Epidemiology of Disasters to visualize disaster trends in the world and in the top five disaster-prone countries. 
 After visualizing the data, I am interested in some common factors that cause more flood, such as deforestation and expansion of residential areas in a coastal zone or other high flood risk zones. 
 Therefore, the next step will be to find the data that help me understand how much area in Indonesia was deforested and whether or not those areas are linked to the flood frequent areas.
 
