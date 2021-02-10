@@ -24,6 +24,7 @@ The goal of this project is to gain an understanding of what impacts natural dis
 With the analysis of the relation between natural disasters and at risk populations, I hope the findings will raise awareness of climate change and its consequence.
 
 **Links**
-Jupyter Notebook: https://jupyter.idre.ucla.edu/user/noir0315@g.ucla.edu/notebooks/21W-DH140/%5BMidterm%5D%20Global%20Disaster%20A%20Case%20Study%20of%20Indonesia.ipynb
 
-Google Slides: https://docs.google.com/presentation/d/16-kb2RGjt-a935cFkP1_Ls8o2Vjr_liMpD6YIgRJ4WM/edit?usp=sharing
+[Jupyter Notebook](https://jupyter.idre.ucla.edu/user/noir0315@g.ucla.edu/notebooks/21W-DH140/%5BMidterm%5D%20Global%20Disaster%20A%20Case%20Study%20of%20Indonesia.ipynb)
+
+[Google Slides](https://docs.google.com/presentation/d/16-kb2RGjt-a935cFkP1_Ls8o2Vjr_liMpD6YIgRJ4WM/edit?usp=sharing)
